@@ -1,3 +1,10 @@
+# Pokédex
+
+<div align="center">
+        <img align="center" src="./.github/pokedex.gif" alt="Imagem do projeto" width="250px"> 
+        
+</div>
+
 <h2 id="the_challenge"  align="center">⚡ The Challenge  </h2>
 
 <div align="center">
