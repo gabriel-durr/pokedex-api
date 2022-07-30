@@ -1,7 +1,7 @@
 <h1 align="center">Pokédex</h1>
 
 <div align="center">
-        <img align="center" src="./.github/pokedex.gif" alt="Imagem do projeto" width="97%"> 
+        <img align="center" src="./.github/pokedex.gif" alt="Imagem do projeto" width="90%"> 
         
 </div>
 
